@@ -1,0 +1,54 @@
+.FormularioPosts{
+    background-color: #17b4cc;
+    border: 4px solid black;
+    height: 100vh;
+    box-sizing: border-box;
+    flex-direction: column;
+    width: 30%;
+}
+
+.FormularioPosts_TituloPrincipal {
+  padding: 20px 0;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: larger;
+  font-weight: bold;
+  font-style: italic;
+  background-color: #07d2f1;
+  border-bottom: 2px solid black;
+}
+
+.FormularioPosts_Div{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.FormularioPosts_DivBotao{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.FormularioPosts_TituloPost{
+    padding: 10px 0px;
+    border-radius: 10px;
+    width: 100%;
+    margin: 8px 0;
+}
+
+.FormularioPosts_Post{
+    width: 100%;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.FormularioPosts_Botao{
+    padding: 10px 5px;
+    background-color: #198754;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+}
+
+

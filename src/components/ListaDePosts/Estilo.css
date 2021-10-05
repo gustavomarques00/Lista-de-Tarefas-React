@@ -1,0 +1,15 @@
+.ListaDePosts {
+  background-color: #07d2f1;
+  border-bottom: 4px solid black;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.ListaDePosts_Div {
+  padding: 10px;
+}
+
+.ListaDePosts_Item {
+  background-color: orange;
+  padding: 10px;
+}
