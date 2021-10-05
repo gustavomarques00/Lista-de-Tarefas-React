@@ -1,0 +1,30 @@
+.CardPost_Conteudo {
+  padding: 25px 0;
+  font-size: 20px;
+}
+
+.CardPost_Titulo {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.CardPost_Reacoes {
+  margin-left: 85%;
+}
+
+.CardPost_IconesGrupo {
+  padding-right: 10px;
+  display: inline-block;
+}
+
+.CardPost_IconesGrupoDiferente {
+  display: inline-block;
+}
+
+.CardPost_Icones {
+  padding: 0 10px;
+  border-radius: 5px;
+  border: 2px solid gray;
+}
